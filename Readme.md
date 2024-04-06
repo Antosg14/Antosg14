@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osvaldo González</h1>
-<h3 align="center">A passionate frontend developer from Panamá</h3>
+<h3 align="center">A passionate developer from Panamá</h3>
 
 - 🌱 I’m currently learning **Java, SQL, Karate Framework and QA**
 
